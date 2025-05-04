@@ -1,0 +1,1 @@
+g++ -fopenmp assg2.cpp
